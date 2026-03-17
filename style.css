@@ -6,8 +6,8 @@ body{
     background:#A5D6A7;
 }
 
-/* Navigation Bar */
 
+/* NAVIGATION BAR */
 header{
     background:#2e7d32;
     padding:15px;
@@ -47,8 +47,8 @@ nav ul li:hover{
     background:#1b5e20;
 }
 
-/* Dropdown Menu */
 
+/* DROPDOWN MENU */
 .dropdown{
     display:none;
     position:absolute;
@@ -72,8 +72,8 @@ nav ul li:hover .dropdown{
     background:#1b5e20;
 }
 
-/* Hero */
 
+/* HERO */
 .hero{
     background: linear-gradient(135deg, #1b5e20 0%, #388e3c 60%, #81c784 100%);
     padding:70px 40px;
@@ -97,15 +97,15 @@ nav ul li:hover .dropdown{
     margin:0;
 }
 
-/* Container */
 
+/* CONTAINER */
 .container{
     padding:40px;
     text-align:center;
 }
 
-/* Section */
 
+/* SECTION */
 .section-title{
     font-family: 'Playfair Display', serif;
     font-size:2rem;
@@ -119,8 +119,8 @@ nav ul li:hover .dropdown{
     font-weight:300;
 }
 
-/* Grid */
 
+/* GRID */
 .grid{
     display:grid;
     grid-template-columns: repeat(2, 1fr);
@@ -129,8 +129,8 @@ nav ul li:hover .dropdown{
     margin:0 auto;
 }
 
-/* Card */
 
+/* CARD */
 .card{
     background:white;
     border-radius:16px;
@@ -201,16 +201,16 @@ nav ul li:hover .dropdown{
     margin-top:4px;
 }
 
-/* Forms */
 
+/* FORMS */
 input,textarea,select{
     width:90%;
     padding:10px;
     margin:8px;
 }
 
-/* Buttons */
 
+/* BUTTONS */
 button{
     background:#C76B29;
     color:white;
@@ -239,8 +239,8 @@ button:hover{
     background:#C76B29;
 }
 
-/* Footer */
 
+/* FOOTER */
 footer{
     background:#2e7d32;
     color:white;
@@ -248,8 +248,8 @@ footer{
     padding:15px;
 }
 
-/* Hero BUTTON */
 
+/* HERO BUTTON */
 .hero-btn{
     display:inline-block;
     margin-top:24px;
@@ -268,8 +268,8 @@ footer{
     background:#a85520;
 }
 
-/* About */
 
+/* ABOUT */
 .about-section{
     display:flex;
     align-items:center;
@@ -292,8 +292,8 @@ footer{
     margin:0;
 }
 
-/* Category Card */
 
+/* CATEGORIES CARD */
 .grid-4{
     grid-template-columns: repeat(4, 1fr);
     max-width:1000px;
@@ -334,8 +334,8 @@ footer{
     margin:0;
 }
 
-/* Contact */
 
+/* CONTACTS */
 .contact-section{
     background:#2e7d32;
     padding:50px 40px;
